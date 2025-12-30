@@ -8,7 +8,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ```sh
 # using Yarn
-yarn start
+yarn install
 ```
 
 ## Step 2: Start Metro
